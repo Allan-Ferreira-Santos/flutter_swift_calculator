@@ -1,0 +1,1 @@
+ /Users/allansantos/Documents/poc/study_swift/flutter_swift_calculator/.dart_tool/flutter_build/0c0809eecca7f60e4b0c7957a69fd618/native_assets.yaml: 
